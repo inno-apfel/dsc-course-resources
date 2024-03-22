@@ -125,7 +125,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc40a-2023-su/">Summer 2023 (Albuyeh)</a><br>
+                <a href="https://inno-apfel.github.io/dsc40a-2021-fa/">Fall 2021 (Suraj)</a><br>
             </td>
         </tr>
         <tr>
@@ -171,7 +171,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc80-2023-sp">Spring 2023 (Rahman)</a><br>
+                <a href="https://inno-apfel.github.io/dsc80-2022-sp/">Spring 2022 (Suraj)</a><br>
             </td>
         </tr>
         <tr>
@@ -266,7 +266,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>DSC 140B</td>
             <td>Representation Learning</td>
             <td>
-                <a href="http://dsc-courses.github.io/dsc140b-2023-sp/">Spring 2023 (Eldridge and Hu)</a><br>
+                <a href="https://inno-apfel.github.io/dsc140b-2023-sp/">Spring 2023 (Eldridge and Hu)</a><br>
             </td>
         </tr>
         <tr>
