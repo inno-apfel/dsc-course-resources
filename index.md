@@ -54,7 +54,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc10-2023-sp">Spring 2023 (Rampure)</a><br>
+                <a href="https://dsc-courses.github.io/dsc10-2023-sp">NA</a><br>
             </td>
         </tr>
         <tr>
@@ -78,7 +78,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc20-2023-wi/">Winter 2023 (Langlois)</a><br>
+                <a href="https://dsc-courses.github.io/dsc20-2023-wi/">NA</a><br>
             </td>
         </tr>
         <tr>
@@ -101,7 +101,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc30-2023-su/">Summer 2023 (Lin)</a><br>
+                <a href="https://dsc-courses.github.io/dsc30-2023-su/">NA</a><br>
             </td>
         </tr>
         <tr>
@@ -149,7 +149,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc40b-2023-wi/">Winter 2023 (Eldridge and Wang)</a><br>
+                <a href="https://dsc-courses.github.io/dsc40b-2023-wi/">NA</a><br>
             </td>
         </tr>
         <tr>
@@ -178,14 +178,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>DSC 90*</td>
             <td>History of Data Science</td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc90-2022-sp/">Spring 2022 (Rampure)</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td>DSC 95</td>
-            <td>Tutor Apprenticeship in Data Science</td>
-            <td>
-                <a href="https://dsc-courses.github.io/dsc95-2023-sp/">Spring 2023 (Rampure)</a>
+                <a href="https://dsc-courses.github.io/dsc90-2022-sp/">NA</a><br>
             </td>
         </tr>
         <tr>
@@ -206,7 +199,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://bsalimi.github.io/dsc100-sp23/">Spring 2023 (Salimi)</a><br>
+                <a href="https://inno-apfel.github.io/dsc100-fa22/">Fall 2022 (Salimi)</a><br>
             </td>
         </tr>
         <tr>
@@ -228,7 +221,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc102-2023-sp/">Spring 2023 (Albuyeh)</a><br>
+                <a href="https://dsc-courses.github.io/dsc102-2023-sp/">NA</a><br>
             </td>
         </tr>
         <tr>
@@ -259,7 +252,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 Probabilistic Modeling and Machine Learning
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc140a-2023-wi/">Winter 2023 (Aoi and Eldridge)</a><br>
+                <a href="https://dsc-courses.github.io/dsc140a-2023-wi/">NA: Winter 2023 (Aoi and Eldridge)</a><br>
             </td>
         </tr>
         <tr>
@@ -275,7 +268,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 Introduction to Data Mining
             </td>
             <td>
-                <a href="https://shangjingbo1226.github.io/teaching/2023-winter-DSC148-DM">Winter 2023 (Shang)</a><br>
+                <a href="https://shangjingbo1226.github.io/teaching/2023-winter-DSC148-DM">NA</a><br>
             </td>
         </tr>
         <tr>
@@ -297,21 +290,14 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-capstone.github.io/">Fall 2022 + Winter 2023 (Rampure)</a><br>
+                <a href="https://inno-apfel.github.io/dsc-180ab-2024-wi/">Fall 2023 + Winter 2024 (Suraj)</a><br>
             </td>
         </tr>
         <tr>
             <td>DSC 190*</td>
             <td>Advanced Algorithms</td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc190-algorithms-2022-wi/">Winter 2022 (Eldridge)</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td>DSC 190*</td>
-            <td>Algorithms for Data Science</td>
-            <td>
-                <a href="https://mazumdar.ucsd.edu/courses/AFDS/DSC190AFDS.html/">Winter 2021 (Mazumdar)</a><br>
+                <a href="https://dsc-courses.github.io/dsc190-algorithms-2022-wi/">NA</a><br>
             </td>
         </tr>
     </tbody>
