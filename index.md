@@ -55,15 +55,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc10-2023-sp">Spring 2023 (Rampure)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc10-2023-wi" style="color:#999">Winter 2023 (Tiefenbruck)</a><br>
-                <a href="https://dsc-courses.github.io/dsc10-2022-fa" style="color:#999">Fall 2022 (Rampure, Tabaghi, and Tiefenbruck)</a><br>
-                <a href="https://dsc-courses.github.io/dsc10-2022-su" style="color:#999">Summer 2022 (Lau)</a><br>
-                <a href="https://dsc-courses.github.io/dsc10-2022-sp" style="color:#999">Spring 2022 (Tiefenbruck)</a><br>
-                <a href="https://dsc-courses.github.io/dsc10-2022-wi" style="color:#999">Winter 2022 (Rampure)</a><br>
-                <a href="https://dsc-courses.github.io/dsc10-2021-fa" style="color:#999">Fall 2021 (Rampure and Tiefenbruck)</a><br>
-                <a href="https://eldridgejm.github.io/dsc10-2021-su/" style="color:#999">Summer 2021 (Eldridge)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -88,9 +79,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc20-2023-wi/">Winter 2023 (Langlois)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc20-2022-fa/" style="color:#999">Fall 2022 (Langlois)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -114,9 +102,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc30-2023-su/">Summer 2023 (Lin)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://sites.google.com/ucsd.edu/dsc30fall2022/">Fall 2022 (Langlois)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -141,12 +126,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc40a-2023-su/">Summer 2023 (Albuyeh)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc40a-2023-sp/" style="color:#999">Spring 2023 (Tiefenbruck)</a><br>
-                <a href="https://dsc-courses.github.io/dsc40a-2022-fa/" style="color:#999">Fall 2022 (Hy and Soleymani)</a><br>
-                <a href="https://dsc-courses.github.io/dsc40a-2022-wi/" style="color:#999">Winter 2022 (Tiefenbruck)</a><br>
-                <a href="https://dsc-courses.github.io/dsc40a-2021-fa/" style="color:#999">Fall 2021 (Rampure)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -171,12 +150,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc40b-2023-wi/">Winter 2023 (Eldridge and Wang)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc40b-2022-fa/" style="color:#999">Fall 2022 (Eldridge)</a><br>
-                <a href="https://sites.google.com/ucsd.edu/theoreticalfoundationsofdatasc/" style="color:#999">Spring 2022 (Mazumdar)</a><br>
-                <a href="https://dsc-courses.github.io/dsc40b-2021-fa/" style="color:#999">Fall 2021 (Eldridge and Wang)</a><br>
-                <a href="https://sites.google.com/ucsd.edu/dsc40b/" style="color:#999">Spring 2021 (Mazumdar and Wang)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -199,12 +172,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc80-2023-sp">Spring 2023 (Rahman)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc80-2023-wi" style="color:#999">Winter 2023 (Rampure)</a><br>
-                <a href="https://dsc-courses.github.io/dsc80-2022-fa/" style="color:#999">Fall 2022 (Eldridge)</a><br>
-                <a href="https://dsc-courses.github.io/dsc80-2022-sp/" style="color:#999">Spring 2022 (Rampure)</a><br>
-                <a href="https://dsc-courses.github.io/dsc80-2021-fa/" style="color:#999">Fall 2021 (Eldridge)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -212,9 +179,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>History of Data Science</td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc90-2022-sp/">Spring 2022 (Rampure)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc90-2022-wi/" style="color:#999">Winter 2022 (Rampure)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -243,13 +207,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://bsalimi.github.io/dsc100-sp23/">Spring 2023 (Salimi)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://bsalimi.github.io/dsc100-wi23/" style="color:#999">Winter 2023 (Salimi)</a><br>
-                <a href="https://bsalimi.github.io/dsc100-fa22/" style="color:#999">Fall 2022 (Salimi)</a><br>
-                <a href="https://bsalimi.github.io/dsc100-fa21/" style="color:#999">Fall 2021 (Salimi)</a><br>
-                <a href="https://bsalimi.github.io/dsc100-sp21/" style="color:#999">Spring 2021 (Salimi)</a><br>
-                <a href="https://bsalimi.github.io/dsc100-wi21/" style="color:#999">Winter 2021 (Salimi)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -272,12 +229,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc102-2023-sp/">Spring 2023 (Albuyeh)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_fall22/" style="color:#999">Fall 2022 (Kumar)</a><br>
-                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter22/" style="color:#999">Winter 2022 (Kumar)</a><br>
-                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter21/" style="color:#999">Winter 2021 (Kumar)</a><br>
-                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter20/" style="color:#999">Winter 2020 (Kumar)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -316,9 +267,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>Representation Learning</td>
             <td>
                 <a href="http://dsc-courses.github.io/dsc140b-2023-sp/">Spring 2023 (Eldridge and Hu)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="http://dsc-courses.github.io/dsc190-representation_learning-2022-sp/" style="color:#999">Spring 2022 (Eldridge)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -350,9 +298,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
             <td>
                 <a href="https://dsc-capstone.github.io/">Fall 2022 + Winter 2023 (Rampure)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-capstone.github.io/old-site/" style="color:#999">Fall 2021 + Winter 2022 (Fraenkel)</a><br>
-                </details>
             </td>
         </tr>
         <tr>
@@ -373,152 +318,3 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
 </table>
 
 _"Special topics" courses are marked with an asterisk*._
-
-### Cognitive Science (COGS)
-
-<table class="table">
-    <colgroup>
-        <col style="width: 10%" />
-        <col style="width: 40%" />
-        <col style="width: 50%" />
-    </colgroup>
-    <thead class="header">
-        <tr>
-            <th>Course Code</th>
-            <th>Title</th>
-            <th>Websites</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>COGS 9</td>
-            <td>Introduction to Data Science
-                <details>
-                    <summary>Catalog Description</summary>
-                    Concepts of data and its role in science will be introduced, as well as the ideas behind data-mining, text-mining, machine learning, and graph theory, and how scientists and companies are leveraging those methods to uncover new insights into human cognition.
-                </details>
-            </td>
-            <td>
-                <a href="https://cogs9.github.io/ucsd-cogs9/">Spring 2023 (Ellis)</a>
-                <details><summary>Show past sites</summary>
-                <a href="https://kshannon.github.io/ucsd-cogs9/" style="color:#999">Winter 2023 (Shannon)</a>
-                </details>
-
-            </td>
-        </tr>
-        <tr>
-            <td>COGS 18</td>
-            <td>Introduction to Python
-                <details>
-                    <summary>Catalog Description</summary>
-                    This class will teach fundamental Python programming skills and practices, including the “Zen of Python.” Students will focus on scientific computing and learn to write functions and tests, as well as how to debug code using the Jupyter Notebook programming environment. Students may receive credit for one of the following: COGS 18, CSE 8A, or CSE 6R. Recommended preparation: students with limited computing experience may take COGS 3.
-                </details>
-            </td>
-            <td>
-                <a href="https://cogs18.github.io/intro.html">Winter 2023 (Fleischer)</a>
-            </td>
-        </tr>
-        <tr>
-            <td>COGS 108</td>
-            <td>Data Science in Practice
-                <details>
-                    <summary>Catalog Description</summary>
-                    Data science is multidisciplinary, covering computer science, statistics, cognitive science and psychology, data visualization, artificial intelligence and machine learning, among others. This course teaches critical skills needed to pursue a data science career using hands-on programming and experimental challenges. Prerequisites: CSE 11 or CSE 8A or COGS 18 or DSC 10 or MAE 8.
-                </details>
-            </td>
-            <td>
-                <a href="https://github.com/COGS108/">All offerings</a>
-            </td>
-        </tr>
-        <tr>
-            <td>COGS 137</td>
-            <td>Practical Data Science in R
-                <details>
-                    <summary>Catalog Description</summary>
-                    Learn coding for data analysis using the R programming language. Course focus will be on practical and applied skills in asking data-informed questions, data wrangling, data visualization, building statistical learning models, and communicating your findings to advance your career. Prerequisites: COGS 14B or MATH 11 or PSYC 60.
-                </details>
-            </td>
-            <td>
-                <a href="https://cogs137.github.io/website/">Winter 2023 (Ellis)</a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
-## Graduate Courses
-
-<table class="table">
-    <colgroup>
-        <col style="width: 10%" />
-        <col style="width: 40%" />
-        <col style="width: 50%" />
-    </colgroup>
-    <thead class="header">
-        <tr>
-            <th>Course Code</th>
-            <th>Title</th>
-            <th>Websites</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>COGS 260</td>
-            <td>Signal processing and machine learning for EEG-based brain-computer interfaces (BCIs)
-                <details>
-                    <summary>Catalog Description</summary>
-                    This course is designed to give students background in EEG-based brain-computer interfaces followed by in depth exploration of signal processing and classification algorithms used.
-
-                    The first few lectures will be given by the Professor on introduction to EEG and BCIs.  Future classes will involve students presenting classification or signal processing algorithms of their choice from recent or classic papers.  Students will meet with the Professor before their class presentation for any help needed in understanding the paper.  Final projects may be done in groups and will involve either detailed or comparative analysis of different algorithms or application of algorithms to well curated data.  Evaluation will be dependent on paper presentation, participation during other presentations, and the final project.
-
-                    Background or interest in EEG and Neuroscience are required.  A prior upper division undergraduate or graduate course in machine learning, signal processing, or other mathematical course is also required. Students interested in BCIs without a mathematical background are encouraged to consider taking COGS 189 offered M/W/F 9AM WI 2023.
-                </details>
-            </td>
-            <td>
-                <a href="https://docs.google.com/document/d/1L5hXL-VsIwTq9HqIm4Lzs4qxmy9gl4UF7oBXJrch9Jo/edit/">Winter 2023 (de Sa)</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td>DSC 204</td>
-            <td>Scalable Data Systems</td>
-            <td>
-                <a href="https://haojian.github.io/DSC204A23WI/">Spring 2023 (Jin)</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td>DSC 253</td>
-            <td>Advanced Data-Driven Text Mining</td>
-            <td>
-                <a href="https://shangjingbo1226.github.io/teaching/2023-spring-CSE291-TM">Spring 2023 (Shang)</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td>DSC 291</td>
-            <td>Trustworthy Machine Learning</td>
-            <td>
-                <a href="https://lilywenglab.github.io/dsc-291-sp23">Spring 2023 (Weng)</a><br>
-            </td>
-        </tr>s
-        <tr>
-            <td>DSC 291</td>
-            <td>Privacy-Preserving Data Systems</td>
-            <td>
-                <a href="https://haojian.github.io/privacysys/">Winter 2023 (Jin)</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td>DSC 291</td>
-            <td>Mobile and Ubiquitous Computing</td>
-            <td>
-                <a href="https://sites.google.com/view/dsc291ubicomp/home?authuser=3/">Winter 2023 (Rahman)</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td>DSC 291</td>
-            <td>Coding Theory</td>
-            <td>
-                <a href="https://sites.google.com/ucsd.edu/coding-theory/">Fall 2022 (Mazumdar)</a><br>
-            </td>
-        </tr>
-    </tbody>
-</table>
