@@ -3,20 +3,9 @@
 
 # UCSD Data Science Course Websites
 
-This site contains course websites for many of the courses in and adjacent to UCSD's Data Science curriculum. The most recent offering of each course available is shown by default; click "Show past sites" to show sites from previous quarters.
+This site contains snapshots of course websites for many of the courses in UCSD's Data Science curriculum. Forks made of sites from the time I took them, or most recent if those were unavailable.
 
-With any questions with this site, feel free to email rampure@ucsd.edu.
-
-> ⚠️ **Note**: This is **not** intended to be used as a list of all courses that HDSI offers, and the information here may be out of date. For official information about all of our course offerings, please refer to the [Undergraduate](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/) and [Graduate](https://datascience.ucsd.edu/graduate/) program pages on the official HDSI website.
-
-### Table of Contents
-
-- [Undergraduate Courses](#undergraduate-courses)
-    - [Data Science (DSC)](#data-science-dsc)
-    - [Cognitive Science (COGS)](#cognitive-science-cogs)
-- [Graduate Courses](#graduate-courses)
-
-A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI-adjacent courses at UCSD as of 2020/2021](https://docs.google.com/document/d/1kQeD_OQ_b2NcfkXBtmtQw4HNJ0lv-VDvj2Yz9SkVP1Q/edit#heading=h.ri0364kcpnnm).
+Last Updated: 03/22/2024
 
 ---
 
@@ -38,7 +27,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <!-- <tr>
             <td>DSC 10</td>
             <td>
                 Principles of Data Science
@@ -103,7 +92,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>
                 <a href="https://dsc-courses.github.io/dsc30-2023-su/">NA</a><br>
             </td>
-        </tr>
+        </tr> -->
         <tr>
             <td>DSC 40A</td>
             <td>
@@ -149,7 +138,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc40b-2023-wi/">NA</a><br>
+                <a href="https://inno-apfel.github.io/dsc40b-2022-fa/">Fall 2022 (Eldridge)</a><br>
             </td>
         </tr>
         <tr>
@@ -174,13 +163,13 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 <a href="https://inno-apfel.github.io/dsc80-2022-sp/">Spring 2022 (Suraj)</a><br>
             </td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td>DSC 90*</td>
             <td>History of Data Science</td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc90-2022-sp/">NA</a><br>
             </td>
-        </tr>
+        </tr> -->
         <tr>
             <td>DSC 100</td>
             <td>
@@ -202,7 +191,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 <a href="https://inno-apfel.github.io/dsc100-fa22/">Fall 2022 (Salimi)</a><br>
             </td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td>DSC 102</td>
             <td>
                 Systems for Scalable Analytics
@@ -223,7 +212,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>
                 <a href="https://dsc-courses.github.io/dsc102-2023-sp/">NA</a><br>
             </td>
-        </tr>
+        </tr> -->
         <tr>
             <td>DSC 106</td>
             <td>
@@ -252,7 +241,8 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 Probabilistic Modeling and Machine Learning
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc140a-2023-wi/">NA: Winter 2023 (Aoi and Eldridge)</a><br>
+                <a href="https://inno-apfel.github.io/dsc140a-2024-wi/">Winter 2024 Eldridge</a><br>
+                <a href="https://dsc-courses.github.io/dsc140a-2023-wi/">Actually Taken: Winter 2023 (Aoi and Eldridge)</a><br>
             </td>
         </tr>
         <tr>
@@ -262,7 +252,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 <a href="https://inno-apfel.github.io/dsc140b-2023-sp/">Spring 2023 (Eldridge and Hu)</a><br>
             </td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td>DSC 148</td>
             <td>
                 Introduction to Data Mining
@@ -270,7 +260,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>
                 <a href="https://shangjingbo1226.github.io/teaching/2023-winter-DSC148-DM">NA</a><br>
             </td>
-        </tr>
+        </tr> -->
         <tr>
             <td>DSC 180AB</td>
             <td>
@@ -297,7 +287,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>DSC 190*</td>
             <td>Advanced Algorithms</td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc190-algorithms-2022-wi/">NA</a><br>
+                <a href="https://inno-apfel.github.io/dsc190-advanced-algorithms-2023-fa/">Fall 2023 (Eldridge)</a><br>
             </td>
         </tr>
     </tbody>
